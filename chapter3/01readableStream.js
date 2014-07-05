@@ -43,4 +43,5 @@ ceasing to read from the data source. The default is 16 KB.
 
     objectMode:   Tell the stream to behave as a stream of objects instead of 
 a stream of bytes, such as a stream of JSON objects instead of the bytes 
+
 in a file. Default false.      */
